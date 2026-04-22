@@ -1,0 +1,11 @@
+{
+    "hidden_units": 128,
+    "num_res_blocks": 2,
+    "dropout_rate": 0.2,
+    "learning_rate": 0.001,
+    "batch_size": 32,
+    "epochs": 500,
+    "n_folds": 5,
+    "lambda": 0.8,
+    "patience": 50
+}

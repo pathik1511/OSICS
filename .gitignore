@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+models/*.keras
+results/
+synthetic_input/
+performance_report.txt

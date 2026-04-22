@@ -1,2 +1,0 @@
-Sigma Opt (MAE): 1956.617162334323
-Sigma Mean (Uncertainty): 1.0952138721942901
